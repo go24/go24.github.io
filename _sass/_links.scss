@@ -16,10 +16,10 @@ a:active {
   color: $link-hover-color;
   text-decoration: none;
   background-image: linear-gradient(to top,
-    rgba(57, 136, 196, 1) 13%,
+    rgba(0,0,0,0) 13%,
     rgba($link-hover-color,.8) 13%,
     rgba($link-hover-color,.8) 17%,
-    rgba(57, 136, 196, 1) 17%
+    rgba(0,0,0,0) 17%
   );
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
