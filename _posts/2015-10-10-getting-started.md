@@ -14,7 +14,7 @@ Lagrange is a minimalist Jekyll theme for running a personal blog or site for fr
 If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
-###### `This is an image with a caption`
+`This is an image with a caption`
 ## Notable features
 
 * Compatible with GitHub Pages.
