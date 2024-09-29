@@ -4,4 +4,4 @@ title: Контакты
 permalink: /contact
 ---
 
-Если что, напишите мне на <a href="mailto:mybox4u@yandex.ru">почту</a>.
+Если что, напишите мне <a href="mailto:mybox4u@yandex.ru">на почту</a>.
